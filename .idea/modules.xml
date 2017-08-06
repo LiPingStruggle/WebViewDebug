@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestWebView.iml" filepath="$PROJECT_DIR$/TestWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebViewDebug.iml" filepath="$PROJECT_DIR$/WebViewDebug.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
